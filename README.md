@@ -20,13 +20,13 @@ This project presents a **Finance Analysis Dashboard** created using **Microsoft
 
 ***Executive Summary***
 
-  ![Executive Summary](https://github.com/Mathiyarasi-soundar/Finance-Analysis-Dashboard/blob/main/Assets/Executive%20summary.PNG?raw=true)
+  ![Executive Summary](https://github.com/Mathiyarasi-soundar/Finance_Analysis_Dashboard/blob/main/Assets/Executive%20summary.PNG?raw=true)
 
 ---
 
 ***Time Analysis***
 
-  ![Time Analysis](https://github.com/Mathiyarasi-soundar/Finance-Analysis-Dashboard/blob/main/Assets/Time%20Analysis.PNG?raw=true)
+  ![Time Analysis](https://github.com/Mathiyarasi-soundar/Finance_Analysis_Dashboard/blob/main/Assets/Time%20Analysis.PNG?raw=true)
 
 ---
 
